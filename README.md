@@ -1,7 +1,7 @@
 # Velora 🤖📱  
 ### The Magical Android AI Voice Assistant  
 
-![Velora Banner](https://your-image-link.com/velora-banner.png)
+![Velora Banner](./assets/velora-banner.png)
 
 **Velora** is an advanced Android AI voice assistant that transforms your smartphone into a smart, interactive, and magical companion.  
 It allows users to control their device, take notes, set reminders, search online, and converse with an AI — all using voice commands.  
@@ -36,12 +36,11 @@ Control apps, device settings, and perform searches with natural speech.
 
 ### ⏰ Smart Reminder System
 Create reminders and receive notifications through voice commands.
----
+
 Remind me to drink water at 5 PM
----
 📝 Voice Notes
 
-33Quickly capture notes and save them locally using your voice.
+Quickly capture notes and save them locally using your voice.
 
 📱 Phone Controls
 
@@ -176,4 +175,7 @@ This project is open-source and available under the MIT License.
 
 ⭐ Support
 
-If you enjoy Velora, give it a star on GitHub ⭐ and share your feedback
+If you enjoy Velora, give it a star on GitHub ⭐ and share your feedback!
+
+
+
