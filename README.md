@@ -1,43 +1,42 @@
-# Velora 🤖📱  
-### The Magical Android AI Voice Assistant  
+Velora 🤖📱
+The Magical Android AI Voice Assistant
 
+Velora is an advanced Android AI voice assistant that transforms your smartphone into a smart, interactive, and magical companion.
+It allows users to control their device, take notes, set reminders, search online, and converse with an AI — all using voice commands.
 
+Velora is offline-friendly, multi-lingual, and powered by AI for intelligent responses.
 
-**Velora** is an advanced Android AI voice assistant that transforms your smartphone into a smart, interactive, and magical companion.  
-It allows users to control their device, take notes, set reminders, search online, and converse with an AI — all using voice commands.  
-
-Velora is **offline-friendly**, **multi-lingual**, and powered by **AI for intelligent responses**.  
-
----
-
-# 🪄 Wake Word Activation
+🪄 Wake Word Activation
 
 Velora is activated using the magical wake phrase:
 
-**"Hey Harry Potter"**  
+"Hey Harry Potter"
 
 Once the wake phrase is detected, Velora listens for commands.
 
-**Example Commands:**
-- "Hey Harry Potter, open YouTube"  
-- "Hey Harry Potter, set a reminder at 6 PM"  
-- "Hey Harry Potter, search Google for weather today"  
-- "Hey Harry Potter, turn on flashlight"
+Example Commands:
 
----
+"Hey Harry Potter, open YouTube"
 
-# 🚀 Features
+"Hey Harry Potter, set a reminder at 6 PM"
 
-### 🎙 Offline Voice Recognition
-Fast and private voice processing using **Vosk / Android Speech API**, without always requiring an internet connection.
+"Hey Harry Potter, search Google for weather today"
 
-### 🗣 Voice Commands
+"Hey Harry Potter, turn on flashlight"
+
+🚀 Features
+🎙 Offline Voice Recognition
+
+Fast and private voice processing using Vosk / Android Speech API, without always requiring an internet connection.
+
+🗣 Voice Commands
+
 Control apps, device settings, and perform searches with natural speech.
 
-### ⏰ Smart Reminder System
+⏰ Smart Reminder System
+
 Create reminders and receive notifications through voice commands.
 
-Remind me to drink water at 5 PM
 📝 Voice Notes
 
 Quickly capture notes and save them locally using your voice.
@@ -119,18 +118,6 @@ Velora
 └── models
     ├── Note.kt
     ├── Reminder.kt
-⚙ Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/velora-ai-assistant.git
-
-Open the project in Android Studio
-
-Sync Gradle dependencies
-
-Run the project on an Android device or emulator
-
 🎯 Future Improvements
 
 Custom wake word support
@@ -167,7 +154,7 @@ Hindi:
 
 Developed as a professional Android AI Voice Assistant project to enhance user interaction and productivity through intelligent voice commands.
 
-Contact: sohajjogan@gmail.com
+Contact: mnajmulhossainnur@gmail.com
 
 📜 License
 
@@ -176,6 +163,3 @@ This project is open-source and available under the MIT License.
 ⭐ Support
 
 If you enjoy Velora, give it a star on GitHub ⭐ and share your feedback!
-
-
-
