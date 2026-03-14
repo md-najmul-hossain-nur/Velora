@@ -1,7 +1,7 @@
 # Velora 🤖📱  
 ### The Magical Android AI Voice Assistant  
 
-![Velora Banner](./assets/velora-banner.png)
+
 
 **Velora** is an advanced Android AI voice assistant that transforms your smartphone into a smart, interactive, and magical companion.  
 It allows users to control their device, take notes, set reminders, search online, and converse with an AI — all using voice commands.  
